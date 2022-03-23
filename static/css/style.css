@@ -1,0 +1,14 @@
+body {
+    background-color: salmon;
+    color: #000000;
+}
+
+.jumbotron {
+    background-image: url("images/button.jpeg");
+    background-size: 25% 100%;
+    text-align: center;
+}
+
+.jumbotron h1 {
+    -webkit-text-stroke: 2px rgb(255, 255, 255);
+}
